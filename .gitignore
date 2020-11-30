@@ -1,0 +1,8 @@
+# !*.0a_
+# Directories.
+.ignore/
+coverage/
+dist/
+node_modules/
+report/
+# Files.
